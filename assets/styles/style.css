@@ -283,10 +283,10 @@ footer > figure > img {
 }
 
 h2{
-    color: var(--text-color-1);
+    color: var(--color-grey-2);
 
 }
 
 h3{
-    color: var(--text-color-1);
+    color: var(--color-grey-2);
 }
